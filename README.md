@@ -1,2 +1,2 @@
 # wadegeniushour
-Genius hour website
+my Genius hour website
