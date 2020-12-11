@@ -1,0 +1,30 @@
+a {
+  color: rgb(67, 126, 161);
+}
+
+a: hover {
+  color: #00AEFF;
+}
+
+.clear {
+  clear: both;
+}
+
+header {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-bottom: 1px solid rgb(197, 231, 250);
+}
+
+header h1 {
+  font-size: 18px;
+  color:blueviolet;
+}
+
+header nav ul li {
+  display: inline;
+}
+
+.writing img {
+  width:200px
+}
